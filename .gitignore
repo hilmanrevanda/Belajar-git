@@ -1,9 +1,1 @@
-
-node_modules/bootstrap/dist/css/bootstrap-grid.css
-*.map
-*.css
-*.scss
-*.json
-*.js
-node_modules/bootstrap/LICENSE
-*.md
+node_modules
